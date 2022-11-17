@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="src/OOPS/INTERFACE/java"/>
 	<classpathentry kind="src" path="src/OOPS/ENCAPSULATION/java"/>
 	<classpathentry kind="src" path="src/OOPS/POLYMORPHISM/java"/>
+	<classpathentry kind="src" path="src/JDBC/MYSQL/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
